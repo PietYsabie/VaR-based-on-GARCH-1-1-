@@ -14,6 +14,6 @@ The calculation follows three steps:
 2. Optimise the three parameters using excel's solver plugin
 3. Calculate the Value-at-Risk
 
-The result is a slightly higher value for the VaR ausing GARCH modelling, which is likely correct:
+The result is a slightly higher value for the VaR using GARCH modelling, which is likely correct:
 
 ![image](https://user-images.githubusercontent.com/78446548/115545290-edec7e00-a2a3-11eb-9ee6-a5c912a141f2.png)
