@@ -1,4 +1,4 @@
-# VaR-based-on-GARCH-1-1-
+# VaR based on GARCH (1-1)
 VaR based on GARCH for the Meerdael investment fund returns
 
 Sample excel showing the Valua at Risk using two approaches:
