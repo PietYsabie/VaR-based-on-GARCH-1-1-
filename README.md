@@ -10,7 +10,7 @@ Sample excel showing the Valua at Risk using two approaches:
 
 The calculation follows three steps:
 
-1. Calculate iterative the next variance based on GARCH(1,), assuming initial parameters for omega, aplha and beta
+1. Calculate iteratively the next variance based on GARCH(1,1), assuming initial parameters for omega, alpha and beta
 2. Optimise the three parameters using excel's solver plugin
 3. Calculate the Value-at-Risk
 
